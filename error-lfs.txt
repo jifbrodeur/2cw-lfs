@@ -1,0 +1,3 @@
+Post "https://github.com/jifbrodeur/2cw-lfs.git/info/lfs/locks/verify": x509: certificate signed by unknown authority
+Remote "origin" does not support the Git LFS locking API. Consider disabling it with:
+  $ git config lfs.https://github.com/jifbrodeur/2cw-lfs.git/info/lfs.locksverify false
